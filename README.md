@@ -6,9 +6,9 @@ EN-KO Technical, AI, and Patent Translation Portfolio
 
 Hello!
 
-I'm an English educator transitioning into technical, AI, and patent translation.
+I specialize in technical, AI, and patent translation.
 
-This repository showcases my translation practice, terminology research, and localization projects.
+This repository features translation projects, terminology research, localization work, and resources related to specialized language services and emerging technologies.
 
 ## 📚 Areas of Interest
 
